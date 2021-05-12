@@ -14,7 +14,7 @@ This repository makes it easy to:
 
 * screenshot your designs
 * create pages of screenshots to document designs
-* document designs using the [GOV.UK Design System](https://design-system.service.gov.uk/)
+* document designs using the [NHS.UK design system](https://service-manual.nhs.uk/)
 * print pages of designs
 * make designs shareable and linkable
 
@@ -47,4 +47,4 @@ If you want to make changes to CSS and JavaScript, and watch for those changes, 
 
 ## Technical notes
 
-The design history uses the [NHS.UK](https://service-manual.nhs.uk/) and the [Eleventy](https://www.11ty.dev) static site generator.
+The design history uses the [NHS.UK design system](https://service-manual.nhs.uk/) and the [Eleventy](https://www.11ty.dev) static site generator.
