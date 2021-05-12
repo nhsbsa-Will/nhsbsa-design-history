@@ -1,6 +1,6 @@
 # Design history for NHSBSA services
 
-Forked from the exceptional work done on the [GOV.UK design history] (https://github.com/DFE-Digital/govuk-design-history)
+Forked from the exceptional work done on the [GOV.UK design history](https://github.com/DFE-Digital/govuk-design-history)
 
 We've added the NHS.UK branded toolkit.
 
@@ -43,7 +43,7 @@ If you want to make changes to CSS and JavaScript, and watch for those changes, 
 * [Becoming a teacher design history](https://bat-design-history.netlify.app)
 * [Increasing children’s internet access](https://increasing-access-history.herokuapp.com/)
 * [WIP: Buy an NHS Prescription Prepayment Certificate design history
-] (https://ppc-design-history.netlify.app/)
+](https://ppc-design-history.netlify.app/)
 
 ## Technical notes
 
