@@ -2,10 +2,7 @@
 
 Forked from the exceptional work done on the [GOV.UK design history](https://github.com/DFE-Digital/govuk-design-history)
 
-We've added the NHS.UK branded toolkit.
-
 A place for you to document your NHSBSA service designs.
-
 <https://nhsbsa-design-history.netlify.app/>
 
 ## Purpose of this project
@@ -47,4 +44,4 @@ If you want to make changes to CSS and JavaScript, and watch for those changes, 
 
 ## Technical notes
 
-The design history uses the [NHS.UK design system](https://service-manual.nhs.uk/) and the [Eleventy](https://www.11ty.dev) static site generator.
+The design history uses the [NHS Digital Service Manual](https://service-manual.nhs.uk/) and the [Eleventy](https://www.11ty.dev) static site generator.
