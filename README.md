@@ -1,6 +1,6 @@
 # Design history for NHSBSA services
 
-Forked from the exceptional work done on the [GOV.UK design history](https://github.com/DFE-Digital/govuk-design-history)
+Forked from the exceptional work done by the DEF-Digital team using [GOV.UK design system](https://github.com/DFE-Digital/govuk-design-history)
 
 A place for you to document your NHSBSA service designs.
 <https://nhsbsa-design-history.netlify.app/>
